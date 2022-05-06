@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Henry F. Bruckman Vargas, Ph.D.
+- 👀 I’m interested in computer sciences and informatics.
+- 🌱 I’m currently a computer sciences and informatics college professor, which is also a PADI Master Scuba Diver Trainer as a hobby.
+- 📫 You can reach me at hbruckman@bayamon.inter.edu.
